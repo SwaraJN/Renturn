@@ -1,23 +1,60 @@
-import logo from './logo.svg';
+// import React ,{useState} from 'react'
+// import './App.css';
+import {Navbar} from './Components/Navbar';
+// import { Button, Container, InputGroup } from 'reactstrap';
+// import { ThemeContext, themes } from './contexts/ThemeContext';
+// import ToggleDark from './Components/ToggleDark';
+
+// function App() {
+//   const [darkMode, setDarkMode] = React.useState(true);
+//   return (
+//     <div className="App">
+//  <Navbar/>
+//  <h1 className="text-warning">Dark/Light mode</h1>
+//         <InputGroup>
+//           <ThemeContext.Consumer>
+//             {({ changeTheme }) => (
+//               <Button
+//                 color="link"
+//                 onClick={() => {
+//                   setDarkMode(!darkMode);
+//                   changeTheme(darkMode ? themes.light : themes.dark);
+//                 }}
+//               >
+//                 <i className={darkMode ? 'fas fa-sun' : 'fas fa-moon'}></i>
+//                 <span className="d-lg-none d-md-block">Switch mode</span>
+//               </Button>
+//             )}
+//           </ThemeContext.Consumer>
+//         </InputGroup> 
+//     </div>
+//   );
+// }
+
+// export default App;
 import './App.css';
+import { ThemeContext, themes } from './contexts/ThemeContext';
+import React ,{useState} from 'react';
+import ToggleDark from './Components/ToggleDark';
+import { Footer } from './Components/HomeC/Footer';
 
 function App() {
+  const [darkMode, setDarkMode] = useState(true);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <ThemeContext.Consumer> 
+        {({ changeTheme }) => (
+          <ToggleDark
+            toggleDark={() => {
+              setDarkMode(!darkMode);
+              changeTheme(darkMode ? themes.light : themes.dark);
+            }}
+          />
+        )}
+      </ThemeContext.Consumer>
+      <Navbar/>
+<Footer/>
     </div>
   );
 }

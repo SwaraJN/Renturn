@@ -1,0 +1,223 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "category": "Womens",
+      "title": "Red Traditional Lehenga ",
+      "Rent": "3000",
+      "image": "https://static01.manyavar.com/uploads/dealimages/12272/listimages/designer-rani-pink-velvet-lenega-unlb3971-425-1.webp"
+    },
+    {
+      "id": 2,
+      "category": "Womens",
+      "title": "Pink Wedding Lehenga",
+      "Rent": "3500",
+      "image": "https://static01.manyavar.com/uploads/dealimages/14190/listimages/embellished-rosy-pink-lehenga-ulb4365-414-1.webp"
+    },
+    {
+      "id": 3,
+      "category": "Womens",
+      "title": "Light Green Lehenga",
+      "Rent": "2500",
+      "image": "https://static01.manyavar.com/uploads/dealimages/13611/listimages/beautiful-embroidered-pink-lehenga-unlb4215-415-11.webp"
+    },
+    {
+      "id": 4,
+      "category": "Womens",
+      "title": "Faint Pink Lehenga",
+      "Rent": "2700",
+      "image": "https://static01.manyavar.com/uploads/dealimages/14190/listimages/embellished-rosy-pink-lehenga-ulb4365-414-1.webp"
+    },
+    {
+      "id": 5,
+      "category": "Womens",
+      "title": "Designer Red Lehenga",
+      "Rent": "3200",
+      "image": "https://static01.manyavar.com/uploads/dealimages/13464/listimages/ravishing-red-lehenga-unlb4152-416-9.webp"
+    },
+    {
+      "id": 6,
+      "category": "Womens",
+      "title": "Enigmatic Rani Bridal Lehenga",
+      "Rent": "3700",
+      "image": "https://static01.manyavar.com/uploads/dealimages/14057/listimages/ethereal-rani-pink-lehenga-unlb4292-425-10.webp"
+    },
+    {
+      "id": 7,
+      "category": "Womens",
+      "title": "Georgette Rani Red Lehenga",
+      "Rent": "3300",
+      "image": "https://static01.manyavar.com/uploads/dealimages/14240/listimages/UNLB4306-425_01.webp"
+    },
+    {
+      "id": 8,
+      "category": "Womens",
+      "title": "Regal Rani Bridal Lehenga",
+      "Rent": "2780",
+      "image": "https://static01.manyavar.com/uploads/dealimages/13931/listimages/regal-rani-bridal-lehenga-unlb4269v-425-2.webp"
+    },
+    {
+      "id": 9,
+      "category": "Womens",
+      "title": "Ethereal Rani Red Lehenga",
+      "Rent": "3140",
+      "image": "https://static01.manyavar.com/uploads/dealimages/14184/listimages/ravishing-rani-pink-lehenga-unlb4268-425-5.webp"
+    },
+    {
+      "id": 10,
+      "category": "Womens",
+      "title": "Ravishing Rani Pink Lehenga",
+      "Rent": "3400",
+      "image": "https://static01.manyavar.com/uploads/dealimages/14184/listimages/ravishing-rani-pink-lehenga-unlb4268-425-5.webp"
+    },
+    {
+      "id": 11,
+      "category": "Mens",
+      "title": "Glamorous Biscuit Color Sherwani",
+      "Rent": "2200",
+      "image": "https://static01.manyavar.com/uploads/dealimages/13841/listimages/glamorous-biscuit-color-sherwani-odes959d-303-1.webp"
+    },
+    {
+      "id": 12,
+      "category": "Mens",
+      "title": "Princely Cream and Gajaree Sherwani",
+      "Rent": "2700",
+      "image": "https://static01.manyavar.com/uploads/dealimages/13842/listimages/plush-cream-color-sherwani-suit-odes928-302-2.webp"
+    },
+    {
+      "id": 13,
+      "category": "Mens",
+      "title": "Blissful Beige Indo Western Set",
+      "Rent": "3200",
+      "image": "https://static01.manyavar.com/uploads/dealimages/9640/listimages/majestic-embroidered-traditional-sherwani-odes702-304-7.webp"
+    },
+    {
+      "id": 14,
+      "category": "Mens",
+      "title": "Majestic Gajaree Sherwani Suit",
+      "Rent": "2900",
+      "image": "https://static01.manyavar.com/uploads/dealimages/14059/listimages/pristine-off-white-sherwani-with-dupatta-cpsh114da-340-1.webp"
+    },
+    {
+      "id": 15,
+      "category": "Mens",
+      "title": "Beige Sherwani Suit with Bold Zardozi Work",
+      "Rent": "3100",
+      "image": "https://static01.manyavar.com/uploads/dealimages/13556/listimages/exquisite-pastel-pink-sherwani-odes915-325-6.webp"
+    },
+    {
+      "id": 16,
+      "category": "Mens",
+      "title": "Aristocratic Fawn Groom Sherwani Suit",
+      "Rent": "2900",
+      "image": "https://static01.manyavar.com/uploads/dealimages/13366/listimages/ravishing-fawn-wedding-sherwani-odes782-304-20.webp"
+    },
+    {
+      "id": 17,
+      "category": "Mens",
+      "title": "Majestic Gajaree Sherwani Suit",
+      "Rent": "3800",
+      "image": "https://static01.manyavar.com/uploads/dealimages/10978/listimages/aesthetic-fawn-patterned-sherwani-set-cpsh059-304-14.webp"
+    },
+    {
+      "id": 18,
+      "category": "Mens",
+      "title": "Exquisite Pastel Sherwani",
+      "Rent": "3500",
+      "image": "https://static01.manyavar.com/uploads/dealimages/13449/listimages/sophisticated-black-sherwani-set-cpod437a-310-10.webp"
+    },
+    {
+      "id": 19,
+      "category": "Mens",
+      "title": "Contemporary Biscuit Color Sherwani",
+      "Rent": "3300",
+      "image": "https://static01.manyavar.com/uploads/dealimages/13358/listimages/coveted-cream-traditional-sherwani-odes835-302-23.webp"
+    },
+    {
+      "id": 20,
+      "category": "Mens",
+      "title": "Brilliant Fawn Sherwani Suit",
+      "Rent": "4700",
+      "image": "https://static01.manyavar.com/uploads/dealimages/11040/listimages/aristocratic-fawn-groom-sherwani-suit-odes456-304-12.webp"
+    },
+    {
+      "id": 21,
+      "category": "Kids",
+      "title": "Plush Cream Color Kids Sherwani Set",
+      "Rent": "2850",
+      "image": "https://static01.manyavar.com/uploads/dealimages/11930/listimages/CODES616-304_1.webp"
+    },
+    {
+      "id": 22,
+      "category": "Kids",
+      "title": "Luxe Cream Kids Indo Western Set",
+      "Rent": "3130",
+      "image": "https://static01.manyavar.com/uploads/dealimages/11938/listimages/CODES807-304_1.webp"
+    },
+    {
+      "id": 23,
+      "category": "Kids",
+      "title": "Glowing Gajaree Kids Kurta Set",
+      "Rent": "4130",
+      "image": "https://static01.manyavar.com/uploads/dealimages/11898/listimages/CPATH012-328_KSS_4250.webp"
+    },
+    {
+      "id": 24,
+      "category": "Kids",
+      "title": "Gleeful Gajaree Kids Kurta Set",
+      "Rent": "3300",
+      "image": "https://static01.manyavar.com/uploads/dealimages/11863/listimages/CJ00013-334_1.webp"
+    },
+    {
+      "id": 25,
+      "category": "Kids",
+      "title": "Patterned Kurta Set for Kids",
+      "Rent": "4150 ",
+      "image": "https://static01.manyavar.com/uploads/dealimages/11886/listimages/charming-printed-blue-kurta-set-c118095-306-9.webp"
+    },
+    {
+      "id": 26,
+      "category": "Kids",
+      "title": "Impressive Sky Blue Pathani",
+      "Rent": "4475",
+      "image": "https://static01.manyavar.com/uploads/dealimages/11846/listimages/C952693-333_C952696-333.webp"
+    },
+    {
+      "id": 27,
+      "category": "Kids",
+      "title": "A Trendy Kurta Perfect for Kids",
+      "Rent": "4240",
+      "image": "https://static01.manyavar.com/uploads/dealimages/11569/listimages/CIWD042-333_KSS_5061.webp"
+    },
+    {
+      "id": 28,
+      "category": "Kids",
+      "title": "Uber Trendy Blue Jacket with Kurta Set",
+      "Rent": "3550",
+      "image": "https://static01.manyavar.com/uploads/dealimages/11832/listimages/CJ00020-306_1.webp"
+    },
+    {
+      "id": 29,
+      "category": "Kids",
+      "title": "Dashing Red Kurta",
+      "Rent": "2230",
+      "image": "https://static01.manyavar.com/uploads/dealimages/11847/listimages/CDES245-329_1.webp"
+    },
+    {
+      "id": 30,
+      "category": "Kids",
+      "title": "Jazzy Red Pathani",
+      "Rent": "3220",
+      "image": "https://static01.manyavar.com/uploads/dealimages/11892/listimages/C952830-329_KSS_3969.webp"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "category": "",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "Cart": []
+}

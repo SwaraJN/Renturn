@@ -1,0 +1,82 @@
+footer{
+    height:300px;
+    color:gray;
+}
+
+.footer {
+    background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);    padding: 30px 0px;
+    font-family: 'Play', sans-serif;
+    text-align: center;
+    height:250px;
+    position: sticky;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    /* color: white; */
+}
+
+.footer .row {
+    /* width:100%; */
+    /* margin:1% 0%; */
+    padding: 0.6% 0%;
+    color: gray;
+    font-size: 0.8em;
+}
+
+.footer .row a {
+    text-decoration: none;
+    color: gray;
+    transition: 0.5s;
+}
+
+.footer .row a:hover {
+    color: #fff;
+}
+
+.footer .row ul {
+    width: 100%;
+}
+
+.footer .row ul li {
+    display: inline-block;
+    margin: 0px 30px;
+}
+
+.footer .row a i {
+    font-size: 2em;
+    margin: 0% 1%;
+}
+
+@media (max-width:720px) {
+    .footer {
+        text-align: left;
+        padding: 5%;
+    }
+
+    .footer .row ul li {
+        display: block;
+        margin: 10px 0px;
+        text-align: left;
+    }
+
+    .footer .row a i {
+        margin: 0% 3%;
+    }
+}
+
+.muiicons {
+    /* border:3px solid yellowgreen; */
+    display: flex;
+    justify-content: space-around;
+    width: 450px;
+    margin: auto;
+}
+
+.namesicon {
+    /* border:1px solid blue; */
+    display: flex;
+    justify-content: space-between;
+    width: 450px;
+    margin: auto;
+    /* cursor:alias; */
+}

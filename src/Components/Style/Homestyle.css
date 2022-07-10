@@ -1,0 +1,57 @@
+.slider {
+    border: 1px solid black;
+    height: 450px;
+    width: 100%;
+}
+
+.about {
+    border: 1px solid black;
+    height: 400px;
+    width: auto;
+}
+
+.footer {
+    border: 1px solid black;
+    height: 400px;
+    width: auto;
+}
+
+.category {
+    border: 1px solid black;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Mens {
+    background-image: url('../HomeC/images/indmen.jpg');
+    /* background-position: center; */
+    border: 1px solid white;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.Womens {
+    background-image: url('../HomeC/images/Womens.jpg');
+    background-position: center;
+    border: 1px solid white;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.Offers {
+    background-image: url('../HomeC/images/offers.jpg');
+    background-size: center;
+    background-repeat: no-repeat;
+    border: 1px solid white;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+/* .footer{
+    height:350px;
+    width:auto;
+    position: sticky;
+} */

@@ -1,0 +1,17 @@
+.nav{
+    border:1px solid black;
+}
+.logo{
+    /* border:1px solid black; */
+    height:70px;
+    width:120px;
+}
+Link{
+    text-decoration: none;
+    color:white;
+}
+nav{
+    display:flex;
+    justify-content:space-around;
+    text-decoration: none;
+}
